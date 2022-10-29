@@ -1,2 +1,2 @@
-# oct-29-dev-ops
-NUS Fintech Programme, DevOps
+# NUS Fintech Programme, DevOps
+Date: 29 Oct 2022
